@@ -2,7 +2,7 @@
 #### deployed link : https://6577251173cf26008c2f8ef0--loquacious-griffin-f626c1.netlify.app/
 #### backend link : https://ether-bucket.onrender.com
 ## Project Overview
-Ether Bucket is a blockchain web development project that empowers collaborative finance and seamless transactions on the blockchain. The project is organized into three main directories: `client`, `server`, and `smart contract`.
+Ether Bucket is a blockchain web development project that empowers collaborative finance and seamless transactions on the blockchain.It utilises a smart contract created using hardhat and deployed on sepolia testnet . The website fetches the metamask details once opened and facilitates transactions. The project is organized into three main directories: `client`, `server`, and `smart contract`.
 
 ## Project Structure
 
